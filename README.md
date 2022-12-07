@@ -2,7 +2,7 @@ Olá,
 Meu nom é Kevyn Marques e sou um desenolvedor front-end e 
 atualmente estudo:
 <br><br/> 
- REACT,
+ REACTJS,
 <br><br/> 
  Styled-Component,
  <br><br/>
