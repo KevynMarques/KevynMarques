@@ -1,6 +1,6 @@
 Olá, 
-Meu nom é Kevyn Marques e sou um desenolvedor front-end 
-Atualmente estudo:
+Meu nom é Kevyn Marques e sou um desenolvedor front-end e 
+atualmente estudo:
 <br><br/> 
  REACT,
 <br><br/> 
